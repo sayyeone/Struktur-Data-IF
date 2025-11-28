@@ -33,12 +33,11 @@ jalankan file `main` dengan cara dibawah ini:
 ```sh
 ├── stack/
 │   ├── stack.cpp
-│   └── readme.md
+│   ├── stack.h
+│   └── main.cpp
 ├── queue/
-│   ├── queue.cpp
-│   └── readme.md
-├── linked_list/
-│   ├── linked.cpp
-│   └── readme.md
-└── main.cpp
+    ├── queue.cpp
+    ├── queue.h
+    └── main.cpp
+
 ```

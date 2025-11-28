@@ -1,7 +1,6 @@
 # Assesment 2 – Struktur Data 2025/2026
 
-Repository ini berisi implementasi berbagai struktur data dasar menggunakan C++, seperti **Stack**, **Queue**, dan struktur data lainnya.  
-Semua program dibuat sederhana tanpa penggunaan `class`, sehingga mudah dipahami oleh mahasiswa praktikum.
+Repository ini berisi implementasi berbagai struktur data dasar menggunakan C++, seperti **Stack**, **Queue**, sehingga mudah dipahami oleh mahasiswa praktikum.
 
 ---
 
